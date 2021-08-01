@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hi there 👋 
+# I'm Ha Yujin 😉
+
+## Who am I
+- 🌱 I’m currently learning JavaScript, Java, Algorithm
+- 🏅 I'm majored in Computer Education.
+- 🏡 I live in South Korea.
+
+## Experience
+- 🎓 SungKyunKwan University, Computer Education (2020.03 ~)
+- 💻 CMD, Programing Academy(2021.06 ~)
+
+## What I like
+- 🎵 Music
+- 📸 Photography
+- 🛫 travel
 
 <!--
 **haujinnn/haujinnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
