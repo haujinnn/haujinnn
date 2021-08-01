@@ -8,7 +8,7 @@
 
 ## Experience
 - 🎓 SungKyunKwan University, Computer Education (2020.03 ~)
-- 💻 CMD, Programing Academy(2021.06 ~)
+- 💻 CMD, Programing Academy (2021.06 ~)
 
 ## What I like
 - 🎵 Music
