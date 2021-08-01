@@ -1,5 +1,4 @@
-### Hi there 👋 
-# I'm Ha Yujin 😉
+### Hi there 👋 I'm Ha Yujin 😉
 
 ## Who am I
 - 🌱 I’m currently learning JavaScript, Java, Algorithm
