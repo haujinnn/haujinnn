@@ -1,5 +1,9 @@
 ### Hi there 👋 I'm Ha Yujin 😉
 
+<a href="https://velog.io/@haujinnn" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<a href="mailto:uj0110@naver.com" target="_blank"><img src="https://img.shields.io/badge/Nmail-2efe2e?style=flat-square&logo=Naver&logoColor=white"/></a>
+<a href="mailto:hujhuj0110@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d44638?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
 ## Who am I
 - 🌱 I’m currently learning JavaScript, Java, Algorithm
 - 🏅 I'm majored in Computer Education.
