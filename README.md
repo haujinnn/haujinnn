@@ -4,6 +4,9 @@
 <a href="mailto:uj0110@naver.com" target="_blank"><img src="https://img.shields.io/badge/Nmail-2efe2e?style=flat-square&logo=Naver&logoColor=white"/></a>
 <a href="mailto:hujhuj0110@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d44638?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
+[![haujinnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=haujinnn&theme=buefy&show_icons=true)](https://github.com/haujinnn/github-readme-stats)
+
+
 ## Who am I
 - 🌱 I’m currently learning JavaScript, Java, Algorithm
 - 🏅 I'm majored in Computer Education.
@@ -32,5 +35,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![haujinnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=haujinnn&theme=buefy&show_icons=true)](https://github.com/haujinnn/github-readme-stats)
