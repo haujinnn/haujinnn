@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![haujinnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=haujinnn&theme=vue&show_icons=true)](https://github.com/haujinnn/github-readme-stats)
+[![haujinnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=haujinnn&theme=buefy&show_icons=true)](https://github.com/haujinnn/github-readme-stats)
