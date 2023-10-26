@@ -4,8 +4,7 @@
 <a href="mailto:huj0110@naver.com" target="_blank"><img src="https://img.shields.io/badge/Nmail-2efe2e?style=flat-square&logo=Naver&logoColor=white"/></a>
 <a href="mailto:hujhuj0110@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d44638?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-
-
+[Link to Badge](https://www.credly.com/go/3pLaEGTk)
 
 <!--
 **haujinnn/haujinnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
